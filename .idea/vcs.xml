@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CLAide" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CocoaPods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Molinillo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Xcodeproj" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cocoapods-downloader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cocoapods-downloader/spec/fixtures/mercurial-repo" vcs="hg4idea" />
+  </component>
+</project>
